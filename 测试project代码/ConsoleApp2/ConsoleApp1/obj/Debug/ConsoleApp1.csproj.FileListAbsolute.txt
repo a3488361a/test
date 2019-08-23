@@ -1,0 +1,10 @@
+J:\测试project代码\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+J:\测试project代码\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+J:\测试project代码\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+J:\测试project代码\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+J:\测试project代码\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+J:\测试project代码\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+J:\测试project代码\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\测试project代码\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+J:\测试project代码\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+J:\测试project代码\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,13 @@
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\TestMQ.exe.config
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\TestMQ.exe
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\TestMQ.pdb
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\Apache.NMS.dll
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\Apache.NMS.pdb
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\Apache.NMS.ActiveMQ.pdb
+J:\测试project代码\TestMQ\TestMQ\bin\Debug\Apache.NMS.ActiveMQ.xml
+J:\测试project代码\TestMQ\TestMQ\obj\Debug\TestMQ_Publish.csprojAssemblyReference.cache
+J:\测试project代码\TestMQ\TestMQ\obj\Debug\TestMQ_Publish.csproj.CoreCompileInputs.cache
+J:\测试project代码\TestMQ\TestMQ\obj\Debug\TestMQ_Publish.csproj.CopyComplete
+J:\测试project代码\TestMQ\TestMQ\obj\Debug\TestMQ.exe
+J:\测试project代码\TestMQ\TestMQ\obj\Debug\TestMQ.pdb
